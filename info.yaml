@@ -1,8 +1,8 @@
-name: platform
+name: MAIN-KIT
 
 version: 1.0.0
 author: CLIB
-description: platform for c++
+description: main kit for CLIB
 
 Windows: true 
 Linux: true 
